@@ -1,0 +1,229 @@
+[
+  {
+    "mapId": 0,
+    "mapsQuestionCode": "100",
+    "areas": [
+      {
+        "id": 0,
+        "mapsAnswerCode": 0,
+        "shape": "rect",
+        "areaPosX": 73,
+        "areaPosY": 26,
+        "areaWidth": 47,
+        "areaHeight": 60,
+        "areaRadius": ""
+      },
+      {
+        "id": 1,
+        "mapsAnswerCode": 1,
+        "shape": "rect",
+        "areaPosX": 437,
+        "areaPosY": 43,
+        "areaWidth": 19,
+        "areaHeight": 44,
+        "areaRadius": ""
+      },
+      {
+        "id": 2,
+        "mapsAnswerCode": 2,
+        "shape": "rect",
+        "areaPosX": 231,
+        "areaPosY": 91,
+        "areaWidth": 91,
+        "areaHeight": 46,
+        "areaRadius": ""
+      },
+      {
+        "id": 3,
+        "mapsAnswerCode": 3,
+        "shape": "rect",
+        "areaPosX": 26,
+        "areaPosY": 114,
+        "areaWidth": 44,
+        "areaHeight": 44,
+        "areaRadius": ""
+      },
+      {
+        "id": 4,
+        "mapsAnswerCode": 4,
+        "shape": "rect",
+        "areaPosX": 139,
+        "areaPosY": 160,
+        "areaWidth": 27,
+        "areaHeight": 65,
+        "areaRadius": ""
+      },
+      {
+        "id": 5,
+        "mapsAnswerCode": 5,
+        "shape": "rect",
+        "areaPosX": 404,
+        "areaPosY": 183,
+        "areaWidth": 35,
+        "areaHeight": 32,
+        "areaRadius": ""
+      },
+      {
+        "id": 6,
+        "mapsAnswerCode": 6,
+        "shape": "rect",
+        "areaPosX": 142,
+        "areaPosY": 210,
+        "areaWidth": 25,
+        "areaHeight": 104,
+        "areaRadius": ""
+      },
+      {
+        "id": 7,
+        "mapsAnswerCode": 7,
+        "shape": "rect",
+        "areaPosX": 436,
+        "areaPosY": 239,
+        "areaWidth": 22,
+        "areaHeight": 24,
+        "areaRadius": ""
+      },
+      {
+        "id": 8,
+        "mapsAnswerCode": 8,
+        "shape": "rect",
+        "areaPosX": 143,
+        "areaPosY": 263,
+        "areaWidth": 26,
+        "areaHeight": 32,
+        "areaRadius": ""
+      },
+      {
+        "id": 9,
+        "mapsAnswerCode": 9,
+        "shape": "rect",
+        "areaPosX": 435,
+        "areaPosY": 112,
+        "areaWidth": 32,
+        "areaHeight": 56,
+        "areaRadius": ""
+      },
+      {
+        "id": 10,
+        "mapsAnswerCode": 10,
+        "shape": "rect",
+        "areaPosX": 62,
+        "areaPosY": 190,
+        "areaWidth": 72,
+        "areaHeight": 52,
+        "areaRadius": ""
+      },
+      {
+        "id": 11,
+        "mapsAnswerCode": 11,
+        "shape": "rect",
+        "areaPosX": 390,
+        "areaPosY": 109,
+        "areaWidth": 17,
+        "areaHeight": 67,
+        "areaRadius": ""
+      },
+      {
+        "id": 12,
+        "mapsAnswerCode": 12,
+        "shape": "rect",
+        "areaPosX": 265,
+        "areaPosY": 193,
+        "areaWidth": 20,
+        "areaHeight": 42,
+        "areaRadius": ""
+      },
+      {
+        "id": 13,
+        "mapsAnswerCode": 13,
+        "shape": "rect",
+        "areaPosX": 295,
+        "areaPosY": 188,
+        "areaWidth": 20,
+        "areaHeight": 45,
+        "areaRadius": ""
+      },
+      {
+        "id": 14,
+        "mapsAnswerCode": 14,
+        "shape": "rect",
+        "areaPosX": 406,
+        "areaPosY": 235,
+        "areaWidth": 30,
+        "areaHeight": 37,
+        "areaRadius": ""
+      },
+      {
+        "id": 15,
+        "mapsAnswerCode": 15,
+        "shape": "rect",
+        "areaPosX": 229,
+        "areaPosY": 235,
+        "areaWidth": 91,
+        "areaHeight": 72,
+        "areaRadius": ""
+      },
+      {
+        "id": 16,
+        "mapsAnswerCode": 16,
+        "shape": "rect",
+        "areaPosX": 69,
+        "areaPosY": 248,
+        "areaWidth": 62,
+        "areaHeight": 33,
+        "areaRadius": ""
+      },
+      {
+        "id": 17,
+        "mapsAnswerCode": 17,
+        "shape": "rect",
+        "areaPosX": 103,
+        "areaPosY": 290,
+        "areaWidth": 35,
+        "areaHeight": 55,
+        "areaRadius": ""
+      },
+      {
+        "id": 18,
+        "mapsAnswerCode": 18,
+        "shape": "rect",
+        "areaPosX": 424,
+        "areaPosY": 338,
+        "areaWidth": 22,
+        "areaHeight": 27,
+        "areaRadius": ""
+      },
+      {
+        "id": 19,
+        "mapsAnswerCode": 19,
+        "shape": "rect",
+        "areaPosX": 104,
+        "areaPosY": 370,
+        "areaWidth": 35,
+        "areaHeight": 62,
+        "areaRadius": ""
+      },
+      {
+        "id": 20,
+        "mapsAnswerCode": 20,
+        "shape": "rect",
+        "areaPosX": 281,
+        "areaPosY": 437,
+        "areaWidth": 23,
+        "areaHeight": 25,
+        "areaRadius": ""
+      },
+      {
+        "id": 21,
+        "mapsAnswerCode": 21,
+        "shape": "rect",
+        "areaPosX": 394,
+        "areaPosY": 453,
+        "areaWidth": 72,
+        "areaHeight": 24,
+        "areaRadius": ""
+      }
+    ],
+    "_cls": "ms_tornado_questionset.model.questionset.ImageMap"
+  }
+]
